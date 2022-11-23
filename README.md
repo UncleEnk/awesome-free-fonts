@@ -1,6 +1,6 @@
 # awesome-free-fonts
 
-hello! this is a list that tries to make *almost* every font ever **free**
+hello! this is a list that tries to make *almost* every font ever **free**. sadly for now it is only english language fonts
 
 # fonts
 
