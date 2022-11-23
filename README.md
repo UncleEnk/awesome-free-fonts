@@ -6,7 +6,7 @@ hello! this is a list that tries to make *almost* every font ever **free**
 
 below you can see all fonts with links
 
-#contributing
+# contributing
 
 if you have a font and dont want to go through the process make an issue if you want to and have the font then follow:
 1. fork my repo
